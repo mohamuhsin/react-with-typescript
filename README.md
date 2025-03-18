@@ -1,1 +1,1 @@
-# React + TypeScript + Vi
+# React + TypeScript + Vite
